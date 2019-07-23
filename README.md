@@ -21,7 +21,7 @@ Drop us an email at i-want-to-be-awesome at recharge dot id with your CV.
 	backend are on AWS. We leverage Appsync, S3, DynamoDB, Kinesis,
 	Cloudwatch, Athena, among others.
 
-- Is battery all that you do?
+- Is power bank all that you do?
 
 	<img src="keepgoing.png" align="right">
 	Our platform is being architected beautifully to monitor and manage
