@@ -11,7 +11,8 @@ We do prefer to have people that is culturaly fit. We want you to be kind and
 helpful. We want you to clean after yourself (pun pun). Clear your plates,
 wash your dishes, water our plants, and always always commit your changes frequently.
 
-Drop us an email at i-want-to-be-awesome at recharge dot id with your CV.
+Please take a look at our [job openings](openings.md) and 
+drop us an email at i-want-to-be-awesome at recharge dot id with your CV.
 
 ## FAQ
 
