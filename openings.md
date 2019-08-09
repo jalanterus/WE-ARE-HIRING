@@ -1,4 +1,4 @@
-# Jobs
+# Job Openings
 Recharge leverages cutting edge technology with up to date industry best practices to solve our internal and external customers problems.
 
 We are seeking for following positions.
