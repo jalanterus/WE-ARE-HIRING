@@ -1,4 +1,5 @@
 # Job Openings
+
 Recharge leverages cutting edge technology with up to date industry best practices to solve our internal and external customers problems.
 
 We are seeking for following positions.
@@ -18,9 +19,9 @@ We are seeking for following positions.
 - AWS Lambda and API Gateway
 - Git with github flow
 
-Those are the skillsets that will be useful to get start quickly but mainly we are looking for people who is passionate about programming and eager to contribute. 
+Those are the skillsets that will be useful to get start quickly but mainly we are looking for people who is passionate about programming and eager to contribute.
 
-He/she must be a fast learner and adapt to new environment quickly. 
+He/she must be a fast learner and adapt to new environment quickly.
 
 Current skill sets are a consideration but it is not the most important. Skills and programming languages can be learn, good personality contributes to the harmonious team work.
 
@@ -52,11 +53,15 @@ You are able to do end-to-end work from low fidelity mock up to high quality int
 
 Your knowledge and experiences have shaped your intuition so that you kind of already know what works and what doesn't. You don't need A/B testing. Yet you do do A/B test your products, and most of the time you are correct.
 
-If the above description fits you and you intuitively know how many yous are in this document :-), please send your cv and/or sample work to jobs@recharge.id. Let's chat.
+If the above description fits you and you intuitively know how many yous are in this document :-), please send your cv and/or sample work to tech.jobs@recharge.id. Let's chat.
 
 We hire full timers and freelancers UX guys and gals.
 
 ## Copywriter
 
-You like our crappy job posting and want to help make it better. Please send your revised version and email to jobs@recharge.id.
+You like our crappy job posting and want to help make it better. Please send your revised version and email to tech.jobs@recharge.id
 
+</br>
+<hr style="border: 0; height: 1px; background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);"></hr>
+© tech.jobs@recharge.id
