@@ -243,8 +243,3 @@ Secondary Skills
 9. Experience working on Agile development teams
 
 ## FreeRTOS Engineer -->
-
-</br>
-<hr style="border: 0; height: 1px; background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);"></hr>
-© tech.jobs@recharge.id
