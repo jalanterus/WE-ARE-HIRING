@@ -1,13 +1,11 @@
 # Join Us!
 
-[Junior developer](./openings.md#junior-developers)
-| [Senior developer](./openings.md#senior-developers)
+[Web Platform](./openings.md#web-platform)
+| [Mobile and Embedded](./openings.md#mobile-and-embedded-platform)
+| [Devops](./openings.md#aws-serverless-devops)
 | [Architect](./openings.md#software-architect)
-| [UX](./openings.md#user-experience-designer)
+| [UX/Product](./openings.md#user-experience-designer)
 | [Copywriter](./openings.md#copywriter)
-| [Web Platform](./technology.md#web-platform)
-| [Mobile and Embedded](./techmology.md#mobile-and-embedded-platform)
-| [Devops](./technology.md#aws-serverless-devops)
 
 PT Jalan Terus Saja is the organization responsible for making sure that your
 battery will never be out of juice. [Awesomeness!](https://recharge.id)
@@ -20,8 +18,7 @@ We do prefer to have people that is culturaly fit. We want you to be kind and
 helpful. We want you to clean after yourself (pun pun). Clear your plates,
 wash your dishes, water our plants, and always always commit your changes frequently.
 
-Please take a look at our [job openings](openings.md) and
-[tech platforms](technology.md) and drop us an email at
+Please take a look at our [job openings](openings.md) and drop us an email at
 tech.jobs@recharge.id with your CV.
 
 ## Contribution culture
