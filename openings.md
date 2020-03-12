@@ -66,7 +66,7 @@ using android and ios native platform in a continuous delivery fashion.
 
 Flutter skills that we like:
 
-- thourogh umdertanding of widgets
+- thorough understanding of widgets
 - platform channel
 - Concept of reactive programming with stream and/or rxdart
 - Experience with and can explain the differences of state management options
