@@ -2,10 +2,15 @@
 
 [Web Platform](./openings.md#web-platform)
 | [Mobile and Embedded](./openings.md#mobile-and-embedded-platform)
+| [Embedded Engineer](./openings.md#embedded-engineer)
 | [Devops](./openings.md#aws-serverless-devops)
 | [Architect](./openings.md#software-architect)
 | [UX/Product](./openings.md#user-experience-designer)
 | [Copywriter](./openings.md#copywriter)
+
+## Latest News
+
+- [Job opening April 2021](./openings2.md)
 
 PT Jalan Terus Saja is the organization responsible for making sure that your
 battery will never be out of juice. [Awesomeness!](https://recharge.id)
@@ -14,11 +19,11 @@ We are always looking for people to contribute to our code base. If you are
 a passionate programmer with eagerness to join a team that is always looking
 to make things work better, maybe you want to join us? _Join us_.
 
-We do prefer to have people that is culturaly fit. We want you to be kind and
+We are always looking for people that is culturaly fit. We want you to be kind and
 helpful. We want you to clean after yourself (pun pun). Clear your plates,
 wash your dishes, water our plants, and always always commit your changes frequently.
 
-Please take a look at our [job openings](openings.md) and drop us an email at
+Please take a look at our [job openings](openings.md) and [job openings April 2021](openings2.md) and drop us an email at
 tech.jobs@recharge.id with your CV.
 
 ## Contribution culture
@@ -51,18 +56,14 @@ the extra hours when the work requires you to.
 
 ## Governance and Value
 
-Moonlighting and accepting freelance job offer is highly discouraged
-and frowned upon.
-
-Please contribute your time and effort for our company. Be total.
-Give the company and your peers your best. And expect your peers for the same
+Please contribute your time and effort for our company. **Be total**.
+Give the company and your peers your best. Expect your peers to give the same
 level of totality.
 
-Social contribution and help people in need are exception to the guideline. But
-please don't abuse the exception by seeking for technicality. We do encourage
-social contribution, including open source contribution - and the company
-shall encourage other team members to get involved, as long as it is for greater
-good of humanity, not personal gain.
+Moonlighting and accepting freelance job offer is normally discouraged and
+frowned upon. But social contribution and helping people in need are not.
+
+We encourage social contribution, including open source contribution - and the company encourages other team members to get involved, as long as it is for greater good of humanity, not personal gain.
 
 Be kind. Help others.
 
