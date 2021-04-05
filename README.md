@@ -1,3 +1,13 @@
+## Hot off the press 🔥🔥🔥
+
+We are actively hiring. [See openings April 2021](./openings2.md)
+
+- [Senior Android IoT Developer](./openings2.md#senior-android-iot-developer)
+- [Senior Angular Developer](./openings2.md#senior-angular-developer)
+- [Rust Developer](./openings2.md#rust-developer)
+- [Senior FreeRTOS Engineer](./openings2.md#senior-freertos-engineer)
+- [Product Owner](./openings2.md#product-owner)
+
 # Join Us!
 
 [Web Platform](./openings.md#web-platform)
@@ -7,10 +17,6 @@
 | [Architect](./openings.md#software-architect)
 | [UX/Product](./openings.md#user-experience-designer)
 | [Copywriter](./openings.md#copywriter)
-
-## Latest News
-
-- [Job opening April 2021](./openings2.md)
 
 PT Jalan Terus Saja is the organization responsible for making sure that your
 battery will never be out of juice. [Awesomeness!](https://recharge.id)
