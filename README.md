@@ -1,4 +1,4 @@
-## Hot off the press 🔥🔥🔥
+## Hot off the press 🔥
 
 We are actively hiring. [See openings April 2021](./openings2.md)
 
