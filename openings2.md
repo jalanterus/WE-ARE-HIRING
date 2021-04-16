@@ -44,7 +44,7 @@ You'll be a good fit to apply if you match the following:
 
 ## Senior FreeRTOS Engineer
 
-In the beginning you will be working mostly with FreeRTOS and ESP32. When we
+In the beginning you will be working mostly with FreeRTOS on ESP32 and/or STM32. When we
 completed certain stages, our embedded lab can be your oyster.
 
 We are looking for people with following characteristics:
